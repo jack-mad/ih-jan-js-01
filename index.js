@@ -11,3 +11,9 @@ let aiAssist=undefined;
 let propTurbo=null;
 
 console.log(`${tipo} con ${puertas}, motor a gasolina: ${motorGasolina}, AIAssist: ${aiAssist} y propulsor turbo: ${propTurbo}`)
+
+//no primitivo 
+const comida = {
+    desayuno:"Hotcakes",
+    comida:"Chilaquiles"
+}
