@@ -17,3 +17,8 @@ const comida = {
     desayuno:"Hotcakes",
     comida:"Chilaquiles"
 }
+
+//objeto
+const devs =[
+    mike, Emanuel, Alexis, Mauricio, Gerardo, Leonardo, Alan, Roman, Mauricio, Sam
+]
