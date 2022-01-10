@@ -22,3 +22,5 @@ const comida = {
 const devs =[
     mike, Emanuel, Alexis, Mauricio, Gerardo, Leonardo, Alan, Roman, Mauricio, Sam
 ]
+
+let nombre ="joaquin"
